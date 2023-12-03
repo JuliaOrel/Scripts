@@ -13,7 +13,7 @@ public void PlayFirsTLevel()
 
 public void AboutGame()
 {
-    SceneManager.LoadScene("about");
+    SceneManager.LoadScene("Scenes/About");
 }
 
 public void Settings()
