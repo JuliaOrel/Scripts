@@ -16,6 +16,12 @@ public void AboutGame()
     SceneManager.LoadScene("Scenes/About");
 }
 
+public void BackToMenu()
+{
+    SceneManager.LoadScene("Scenes/MainMenu");
+}
+
+
 public void Settings()
 {
     SceneManager.LoadScene("menu");
